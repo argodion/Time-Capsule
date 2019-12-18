@@ -1,0 +1,18 @@
+#resetBtn {
+  border: none;
+  height: 21px;
+}
+#submitBtn {
+  border: none;
+  height: 21px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
+#editBtn {
+  border-radius: 5px;
+}
+.liText {
+  display: inline-block;
+  margin: 0 0 10px 0;
+  padding: 0;
+}
